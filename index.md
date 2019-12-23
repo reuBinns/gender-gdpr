@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+### Gender: What the GDPR does not tell us (But maybe you can?)
 
-You can use the [editor on GitHub](https://github.com/fat2020tutorials/gender-gdpr/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Gender is nowadays in a paradoxical state. On the one hand, some national laws, apps and online platforms appear to increasingly welcome the right of individuals to self-determine their own gender, which – it is more and more accepted – might even go beyond the traditional gender binary, potentially encompassing a multitude of diverse, non-confirming gender identities across a presumably fluid spectrum of possibilities. On the other hand, however, a variety of ‘AI solutions’ and related technologies are openly based on their presumed ability to ‘detect’ whether people are male or female: from facial recognition relying on ‘automated gender recognition’ to automated gender classification by social media based on the widespread monitoring of online ‘interests and behaviour’, the ways in which we are all being continuously gendered (and thus potentially re- and mis-gendered) are multiplying, almost always in an opaque manner. This interactive tutorial aims at exploring the potential of the General Data Protection Regulation (GDPR) in helping us interrogating ongoing gendering data practices. For this purpose, it will introduce the key relevant notions and mechanisms of the GDPR, and open up the question of which are the rights of the data subject to know, and possibly ‘rectify’ (also creatively), their attributed genders. Hopefully, the audience will then suggest ways to go forward in this transparency endeavour.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fat2020tutorials/gender-gdpr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Who will be delivering this tutorial?
+G. González Fuster, Research Professor at the Vrije Universiteit Brussel (VUB). Member of the Law, Science, Technology and Society (LSTS) Research Group

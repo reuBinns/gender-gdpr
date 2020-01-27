@@ -30,12 +30,12 @@ The tutorial’s focus is the potential of (and the limitations of the potential
 
 Key issues that will be addressed are:
 
-    the pervasiveness of gender attribution online;
-    the lack of information on gender attribution provided to the individuals which are being labelled (‘data subjects’);
-    the absence of any explicit consideration of gender in the GDPR;
-    the ways in which data subjects could, in principle, exercise their rights to get a better grasp of what is actually going on, as a first step to potentially do something about it;
-    some of the obstacles encountered in the exercise of such rights;
-    alternative or complementary paths through which to unmask, and make transparent and accountable, gendering data practices.
+- the pervasiveness of gender attribution online;
+- the lack of information on gender attribution provided to the individuals which are being labelled (‘data subjects’);
+- the absence of any explicit consideration of gender in the GDPR;
+- the ways in which data subjects could, in principle, exercise their rights to get a better grasp of what is actually going on, as a first step to potentially do something about it;
+- some of the obstacles encountered in the exercise of such rights;
+- alternative or complementary paths through which to unmask, and make transparent and accountable, gendering data practices.
 
  
 

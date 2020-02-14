@@ -53,7 +53,7 @@ Prof. Dr. Gloria González Fuster is a Research Professor at the Faculty of Law 
 
 ### Slides
 
-Slides will be made available here after the session.
+Slides available [here](https://github.com/fat2020tutorials/gender-gdpr/blob/master/Gender:%20What%20the%20GDPR%20does%20not%20tell%20us%20(But%20maybe%20you%20can%3F).pdf)
 
  
 
